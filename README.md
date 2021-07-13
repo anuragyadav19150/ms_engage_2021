@@ -1,6 +1,6 @@
 # MicroSoft Engage 2021
 
-I made this Microsoft Clone App in Microsoft Engage 2021.
+I made this Microsoft Teams Clone App in Microsoft Engage 2021.
 
 You can download and run this app. <br/>
 
