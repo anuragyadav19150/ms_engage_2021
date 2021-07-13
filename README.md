@@ -16,7 +16,8 @@ Create a developer account at agora.io. Once you finish the sign-up process, you
 Navigate in the dashboard tree on the left to Projects > Project List.
 Copy the app ID that you obtain from the dashboard into a text file. You will use this when you launch the app.
 
-
+Link of Gantt Chart<br/>
+https://docs.google.com/spreadsheets/d/1uYfVFd-cAVqfXA2smNpMYD2DIeK01cvgfx7vbT8Upps/edit#gid=1115838130 <br/>
 
 
 Some ScreenShots of the App.<br />
