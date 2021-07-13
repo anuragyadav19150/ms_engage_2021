@@ -2,19 +2,19 @@
 
 I made this Microsoft Clone App in Microsoft Engage 2021.
 
-You can download and run this app .
+You can download and run this app. <br/>
 
-If you also want to make this project
-#Prerequisites
-Agora.io Developer Account
-Flutter 1.0.0
+If you also want to make this project  <br/>
+#Prerequisites  <br/>
+Agora.io Developer Account  <br/>
+Flutter 1.0.0  <br/>  <br/>  <br/>
 
-Create an Account and Obtain an App ID
-To build and run the sample application, first obtain an app ID:
+Create an Account and Obtain an App ID  <br/>
+To build and run the sample application, first obtain an app ID:  <br/>
 
-Create a developer account at agora.io. Once you finish the sign-up process, you are redirected to the dashboard.
-Navigate in the dashboard tree on the left to Projects > Project List.
-Copy the app ID that you obtain from the dashboard into a text file. You will use this when you launch the app.
+Create a developer account at agora.io. Once you finish the sign-up process, you are redirected to the dashboard.  <br/>
+Navigate in the dashboard tree on the left to Projects > Project List.  <br/>
+Copy the app ID that you obtain from the dashboard into a text file. You will use this when you launch the app.  <br/> <br/>
 
 #Link of Gantt Chart<br/>
 https://docs.google.com/spreadsheets/d/1uYfVFd-cAVqfXA2smNpMYD2DIeK01cvgfx7vbT8Upps/edit#gid=1115838130 <br/>
@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1uYfVFd-cAVqfXA2smNpMYD2DIeK01cvgfx7vbT8U
 !<img src="appImage/4.jpg" width="350" /><br/>
 !<img src="appImage/5.jpg" width="350" />
 !<img src="appImage/6.jpg" width="350" /><br/>
-!<img src="appImage/7.jpg" width="350" /><br/>
+!<img src="appImage/7.jpg" width="350" /><br/> <br/>
 
 
 #Resources<br />
