@@ -30,13 +30,7 @@ https://docs.google.com/spreadsheets/d/1uYfVFd-cAVqfXA2smNpMYD2DIeK01cvgfx7vbT8U
 !<img src="appImage/7.jpg" width="350" /><br/> <br/>
 
 
-#Resources<br />
-Complete API documentation at the Developer Center<br />
-File bugs about this sample<br />
-Flutter lab: Write your first Flutter app<br />
-Flutter cookbook: Useful Flutter samples<br />
-Flutter online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.<br />
-#Credit<br />
-https://console.agora.io/<br />
-https://pub.dartlang.org/packages/permission_handler<br />
-https://www.freepik.com/ for vector images used in project<br />
+#Resources And Credit<br />
+1. https://console.agora.io/<br />
+2. https://pub.dartlang.org/packages/permission_handler<br />
+3. https://www.freepik.com/ for vector images used in project<br />
