@@ -19,23 +19,23 @@ Copy the app ID that you obtain from the dashboard into a text file. You will us
 
 
 
-Some ScreenShots of the App.
+Some ScreenShots of the App.<br />
 ![](appImage/1.jpg)
 ![](appImage/2.jpg)
 ![](appImage/3.jpg)
 ![](appImage/4.jpg)
 ![](appImage/5.jpg)
 ![](appImage/6.jpg)
-![](appImage/7.jpg)
+![](appImage/7.jpg)<br />
 
 
-Resources
-Complete API documentation at the Developer Center
-File bugs about this sample
-Flutter lab: Write your first Flutter app
-Flutter cookbook: Useful Flutter samples
-Flutter online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
-Credit
-https://console.agora.io/
-https://pub.dartlang.org/packages/permission_handler
-https://www.freepik.com/ for vector images used in project
+Resources<br />
+Complete API documentation at the Developer Center<br />
+File bugs about this sample<br />
+Flutter lab: Write your first Flutter app<br />
+Flutter cookbook: Useful Flutter samples<br />
+Flutter online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.<br />
+Credit<br />
+https://console.agora.io/<br />
+https://pub.dartlang.org/packages/permission_handler<br />
+https://www.freepik.com/ for vector images used in project<br />
