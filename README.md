@@ -21,12 +21,12 @@ Copy the app ID that you obtain from the dashboard into a text file. You will us
 
 Some ScreenShots of the App.<br />
 !<img src="appImage/1.jpg" width="350" />
-!<img src="appImage/1.jpg" width="350" /><br/>
-!<img src="appImage/1.jpg" width="350" />
-!<img src="appImage/1.jpg" width="350" /><br/>
-!<img src="appImage/1.jpg" width="350" />
-!<img src="appImage/1.jpg" width="350" /><br/>
-!<img src="appImage/1.jpg" width="350" /><br/>
+!<img src="appImage/2.jpg" width="350" /><br/>
+!<img src="appImage/3.jpg" width="350" />
+!<img src="appImage/4.jpg" width="350" /><br/>
+!<img src="appImage/5.jpg" width="350" />
+!<img src="appImage/6.jpg" width="350" /><br/>
+!<img src="appImage/7.jpg" width="350" /><br/>
 
 
 Resources<br />
