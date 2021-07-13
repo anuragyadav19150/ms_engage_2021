@@ -20,7 +20,7 @@ Copy the app ID that you obtain from the dashboard into a text file. You will us
 
 
 Some ScreenShots of the App.<br />
-!<img src="appImage/1.jpg" width="200" />
+!<img src="appImage/1.jpg" width="400" />
 ![](appImage/2.jpg)
 ![](appImage/3.jpg)
 ![](appImage/4.jpg)
