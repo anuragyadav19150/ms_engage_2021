@@ -19,8 +19,7 @@ Copy the app ID that you obtain from the dashboard into a text file. You will us
 #Link of Gantt Chart<br/>
 https://docs.google.com/spreadsheets/d/1uYfVFd-cAVqfXA2smNpMYD2DIeK01cvgfx7vbT8Upps/edit#gid=1115838130 <br/>
 
-Link for apk<br/>
-https://drive.google.com/file/d/1docfZMNbrO1qNImo1bfnYDCQdLl2OEIE/view?usp=sharing <br/>
+
 
 
 #Some ScreenShots of the App.<br />
